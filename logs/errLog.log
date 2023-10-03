@@ -1,0 +1,4 @@
+29092023	18:02:20	992d76ab-ea15-4d83-9a2f-df4ab62cba7f	Error: Not allowed by Cors	GET	/	null
+29092023	18:03:42	97a21d85-d4b6-4c92-80d7-c577ecacc7f9	Error: Not allowed by Cors	GET	/	null
+29092023	18:04:52	286a2976-7aac-450c-ae07-20ce94cbe03d	Error: Not allowed by Cors	OPTIONS	/	https://www.google.com
+29092023	18:04:52	bcd73615-5c84-45f0-804c-2ec7d6dc7e8e	Error: Not allowed by Cors	GET	/	https://www.google.com
