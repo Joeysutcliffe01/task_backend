@@ -2,3 +2,7 @@
 29092023	18:03:42	97a21d85-d4b6-4c92-80d7-c577ecacc7f9	Error: Not allowed by Cors	GET	/	null
 29092023	18:04:52	286a2976-7aac-450c-ae07-20ce94cbe03d	Error: Not allowed by Cors	OPTIONS	/	https://www.google.com
 29092023	18:04:52	bcd73615-5c84-45f0-804c-2ec7d6dc7e8e	Error: Not allowed by Cors	GET	/	https://www.google.com
+03102023	18:33:50	a0b8b5b3-c6e2-4721-a03e-2f007cc58d57	Error: data and salt arguments required	POST	/users	undefined
+04102023	16:43:50	33d23627-ac73-4846-837d-2178cecb13f7	SyntaxError: Unexpected token } in JSON at position 60	POST	/users	undefined
+06102023	11:31:06	6e22cac4-714c-4b2d-a0ff-f10e49569ef3	SyntaxError: Unexpected token , in JSON at position 185	PATCH	/users	undefined
+06102023	12:02:41	ca50145e-7691-43d9-a976-8a14ad0e07cd	SyntaxError: Unexpected token } in JSON at position 42	DELETE	/users	undefined
